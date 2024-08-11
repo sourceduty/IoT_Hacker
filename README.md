@@ -1,4 +1,4 @@
-![IoT Hacker](https://github.com/user-attachments/assets/683b948a-5e9b-4288-807c-e9d69e85c3ee)
+![IoT Hacker](https://github.com/user-attachments/assets/46dfff78-3584-4357-91a3-f1b1ef2951bc)
 
 > Assistive Internet of Things (IoT) device hacking.
 
