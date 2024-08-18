@@ -11,6 +11,10 @@ In addition to vulnerability identification, IoT Hacker offers expertise in reve
 Moreover, IoT Hacker is equipped to guide users through the practical aspects of IoT hacking, recommending essential tools and techniques necessary for tasks like firmware analysis, protocol exploration, and device protection. It emphasizes ethical hacking practices, ensuring users are aware of the legal and ethical implications of their actions, and promotes responsible use of the information and skills acquired. The GPT also offers programming assistance in languages commonly used in IoT development, helping users achieve specific hacking goals while maintaining a strong focus on security and responsible practices.
 
 #
+
+![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
