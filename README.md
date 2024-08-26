@@ -16,7 +16,7 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 
 #
 
-![IoT Hacked](https://github.com/user-attachments/assets/676ff6dd-d512-4496-88d5-1eefe613e2ba)
+![Hacked Camera](https://github.com/user-attachments/assets/b1508735-2511-4e02-9e22-f916b59e4ec1)
 
 #
 ### Related Links
