@@ -15,6 +15,10 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 ![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
 
 #
+
+![IoT Hacked](https://github.com/user-attachments/assets/676ff6dd-d512-4496-88d5-1eefe613e2ba)
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
