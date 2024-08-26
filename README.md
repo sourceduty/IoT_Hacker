@@ -28,6 +28,8 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
