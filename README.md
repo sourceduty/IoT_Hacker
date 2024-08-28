@@ -30,6 +30,8 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 [Sensor Calibration](https://github.com/sourceduty/Sensor_Calibration)
 <br>
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
+<br>
+[Military Automation](https://github.com/sourceduty/Military_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
