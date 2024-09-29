@@ -32,6 +32,8 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
 <br>
 [Military Automation](https://github.com/sourceduty/Military_Automation)
+<br>
+[Hack Automation](https://github.com/sourceduty/Hack_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
