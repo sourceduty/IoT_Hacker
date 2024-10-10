@@ -36,6 +36,8 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 [Hack Automation](https://github.com/sourceduty/Hack_Automation)
 <br>
 [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
+<br>
+[Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
