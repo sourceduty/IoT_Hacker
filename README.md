@@ -36,6 +36,15 @@ Creating a replica of the HAL 9000, the infamous AI from 2001: A Space Odyssey, 
 In more advanced IoT HAL 9000 projects, the replicas go beyond simple voice recognition and extend to smart home automation and advanced AI functionalities. Enthusiasts often connect their HAL replicas to various IoT-enabled devices, such as smart thermostats, security cameras, and lighting systems, allowing HAL to become the central hub for home automation. These projects might incorporate machine learning libraries and cloud services, giving the device a form of "learning" ability to adapt to user preferences over time. Developers also experiment with speech synthesis software to recreate HAL’s unique, calm voice, providing an authentic feel. As a result, these IoT HAL 9000 replicas offer both an engaging homage to the fictional AI and a practical, interactive tool for controlling modern smart home environments.
 
 #
+### Electronic Smarties Candy Dispenser Concept
+
+![Electronic Smarties Candy Dispenser Concept](https://github.com/user-attachments/assets/e78a78b3-43fa-4283-9f31-28c520d0f2ae)
+
+This Arduino Smartie Candy Dispenser concept involves a system where a gravity-weighted suction tube mechanism is employed to pick up individual Smarties from a hopper. Each Smartie is moved through pneumatic suction to the dispenser, where the tube gradually lowers further into the center of the hopper as it picks up one candy at a time. The suction tube intake is designed to hold a single Smartie per operation, with flaps in place that control the candy's movement. Once a Smartie is inside the tube head, a flap closes behind it to secure the candy, and another flap opens in front, allowing the candy to continue its journey to the dispenser via suction.
+
+The dispenser concept includes several features aimed at enhancing user experience. It operates contactlessly, counting every candy dispensed and displaying the count on an OLED screen, which shows the total candy count and total candy dispensed. The device can dispense candy using an NFC smartphone app or card, and it includes LED lights for additional visual feedback. Powered by a USB-A input, the dispenser design is intended to be interactive, providing users with a fun, automated way to enjoy candy while offering useful metrics about candy consumption.
+
+#
 
 ![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
 
