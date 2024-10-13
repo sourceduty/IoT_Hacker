@@ -27,7 +27,7 @@ Moreover, IoT Hacker is equipped to guide users through the practical aspects of
 10. LoRaWAN Message Broadcaster - Broadcasts LoRaWAN messages over a wide area.
 
 #
-### HAl 9000
+### HAL 9000
 
 ![Concept](https://github.com/user-attachments/assets/743b5761-07d7-4fdc-ab48-21d16afffb0c)
 
