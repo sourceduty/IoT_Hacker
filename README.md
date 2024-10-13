@@ -1,4 +1,4 @@
-![Camera](https://github.com/user-attachments/assets/b59dfdc4-3d8a-45b8-aabc-169a098967db)
+![Security Camera](https://github.com/user-attachments/assets/d5cd519c-df22-4c88-994a-4d004e2bb3c7)
 
 > Assistive Internet of Things (IoT) device hacking.
 
