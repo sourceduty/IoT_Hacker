@@ -11,6 +11,22 @@ In addition to vulnerability identification, IoT Hacker offers expertise in reve
 Moreover, IoT Hacker is equipped to guide users through the practical aspects of IoT hacking, recommending essential tools and techniques necessary for tasks like firmware analysis, protocol exploration, and device protection. It emphasizes ethical hacking practices, ensuring users are aware of the legal and ethical implications of their actions, and promotes responsible use of the information and skills acquired. The GPT also offers programming assistance in languages commonly used in IoT development, helping users achieve specific hacking goals while maintaining a strong focus on security and responsible practices.
 
 #
+### Portable & Throwable Device Examples
+
+![Smoke E-Grenade](https://github.com/user-attachments/assets/c21abf21-38ed-4e28-95c1-b71d9784af2b)
+
+1. Wi-Fi Pineapple - Portable Wi-Fi network analyzer and penetration testing device.
+2. Bluetooth Beacon Tracker - Device to track nearby Bluetooth beacons and log data.
+3. GPS Tracker - Throwable device that logs GPS coordinates and transmits them.
+4. Portable Packet Sniffer - Captures and logs network packets for analysis.
+5. Smoke E-Grenade - Emits a dense cloud of smoke when activated.
+6. Motion-Activated Camera - Captures images when movement is detected, uploads to cloud.
+7. Environmental Sensor Node - Logs temperature, humidity, and air quality data.
+8. RFID Cloner - Portable RFID cloning tool for capturing RFID tags.
+9. Signal Jammer - Small device to jam Wi-Fi or Bluetooth signals in a limited range.
+10. LoRaWAN Message Broadcaster - Broadcasts LoRaWAN messages over a wide area.
+
+#
 
 ![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
 
