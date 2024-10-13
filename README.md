@@ -50,6 +50,10 @@ The dispenser concept includes several features aimed at enhancing user experien
 
 #
 
+![EMP](https://github.com/user-attachments/assets/4745be18-daa4-4bc2-a7d3-90b0324fe6f6)
+
+#
+
 ![Hacked Camera](https://github.com/user-attachments/assets/b1508735-2511-4e02-9e22-f916b59e4ec1)
 
 #
