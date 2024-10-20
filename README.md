@@ -78,6 +78,8 @@ The dispenser concept includes several features aimed at enhancing user experien
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
 <br>
 [AI + IoT](https://github.com/sourceduty/AI_IoT)
+<br>
+[Animal IoT](https://github.com/sourceduty/Animal_IoT)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
