@@ -60,15 +60,12 @@ While possible, this hack has limitations. SPI mode is slower than full SD mode,
 
 
 #
-
 ![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
-
 #
-
+![Monitor Hack](https://github.com/user-attachments/assets/a0e30917-40d8-467f-8b4e-66c280c8af24)
+#
 ![EMP](https://github.com/user-attachments/assets/4745be18-daa4-4bc2-a7d3-90b0324fe6f6)
-
 #
-
 ![Hacked Camera](https://github.com/user-attachments/assets/b1508735-2511-4e02-9e22-f916b59e4ec1)
 
 #
