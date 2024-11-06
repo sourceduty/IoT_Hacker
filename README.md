@@ -45,6 +45,21 @@ This Arduino Smartie Candy Dispenser concept involves a system where a gravity-w
 The dispenser concept includes several features aimed at enhancing user experience. It operates contactlessly, counting every candy dispensed and displaying the count on an OLED screen, which shows the total candy count and total candy dispensed. The device can dispense candy using an NFC smartphone app or card, and it includes LED lights for additional visual feedback. Powered by a USB-A input, the dispenser design is intended to be interactive, providing users with a fun, automated way to enjoy candy while offering useful metrics about candy consumption.
 
 #
+### Pi to SD Card Port
+
+![Hacked](https://github.com/user-attachments/assets/2406dc62-834b-4fdf-83a9-50ad664bcc20)
+
+To connect an SD card to the Raspberry Pi through GPIO, you can hack the setup using SPI mode, a protocol that the Pi’s GPIO pins support. This approach bypasses the usual SD card slot on the Pi, instead connecting directly to the Pi’s GPIO pins to transfer data in SPI mode. Typically, SD cards operate in SD mode, which is faster and more complex, but they can also communicate over the simpler SPI protocol. While SPI is slower, it allows the Pi to interact with the SD card using GPIO, enabling basic read/write operations and providing an alternative means of accessing SD storage for certain low-speed applications.
+
+The SD card adapter cable you shared can be useful for this type of setup, as it gives more physical flexibility in positioning the SD card and provides accessible wiring for tapping into the SD card’s pins. By connecting this extender cable to the Pi’s GPIO pins, you can effectively relocate the SD card interface, allowing for easier experimentation with SD card signals without modifying the Pi’s onboard slot. The adapter cable helps expose individual SD card lines (such as CLK, CMD, and DAT) so that they can be easily connected to the appropriate GPIO pins on the Pi configured for SPI communication.
+
+To set up the connection, you would wire the adapter cable’s pins to specific GPIO pins on the Raspberry Pi: the MOSI (Master Out Slave In) line on the Pi’s SPI interface connects to the Data In (DI) pin on the SD card, MISO (Master In Slave Out) to Data Out (DO), SCLK (Serial Clock) to the Clock (CLK) pin, and a GPIO pin as the Chip Select (CS). This setup allows the Pi to control data flow through the SD card adapter cable, though you may need additional pull-up resistors to ensure stable signals. Once physically connected, you’d need to enable SPI on the Pi and use a programming library (such as Python’s spidev) to send and receive data, implementing the necessary command structure to read from or write to the SD card.
+
+While possible, this hack has limitations. SPI mode is slower than full SD mode, which means data transfer speeds are reduced—making it suitable only for low-bandwidth applications like basic data logging or educational experimentation. Additionally, the setup requires a good understanding of both SD card protocols and electronics, as well as care with wiring to avoid signal integrity issues. This hack offers a unique way to use the Pi’s GPIO to manage SD card communication, leveraging the adapter cable as a flexible bridge, but it requires significant effort and technical knowledge to implement effectively. For more reliable and faster solutions, a USB-to-SD card adapter is generally preferable, though this GPIO-to-SD card hack can be an interesting project for those looking to explore custom interfacing with SD cards.
+
+
+
+#
 
 ![Hack](https://github.com/user-attachments/assets/3fbdaae8-5121-4895-a992-0e48aa74f795)
 
