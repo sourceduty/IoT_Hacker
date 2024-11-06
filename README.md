@@ -86,8 +86,6 @@ While possible, this hack has limitations. SPI mode is slower than full SD mode,
 <br>
 [Military Automation](https://github.com/sourceduty/Military_Automation)
 <br>
-[Hack Automation](https://github.com/sourceduty/Hack_Automation)
-<br>
 [Flipper Zero Simulator](https://github.com/sourceduty/Flipper_Zero_Simulator)
 <br>
 [Raspberry Pi](https://github.com/sourceduty/Raspberry_Pi)
