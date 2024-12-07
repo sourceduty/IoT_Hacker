@@ -45,7 +45,7 @@ This Arduino Smartie Candy Dispenser concept involves a system where a gravity-w
 The dispenser concept includes several features aimed at enhancing user experience. It operates contactlessly, counting every candy dispensed and displaying the count on an OLED screen, which shows the total candy count and total candy dispensed. The device can dispense candy using an NFC smartphone app or card, and it includes LED lights for additional visual feedback. Powered by a USB-A input, the dispenser design is intended to be interactive, providing users with a fun, automated way to enjoy candy while offering useful metrics about candy consumption.
 
 #
-### Hackaton Timewaste
+### Hackathon Timewaste
 
 ![Hackathon](https://github.com/user-attachments/assets/fcecd348-4177-43ba-b481-6e4d56344285)
 
